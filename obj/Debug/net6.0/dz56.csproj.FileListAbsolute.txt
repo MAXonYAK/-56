@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\С#2\dz56\bin\Debug\net6.0\dz56.exe
+C:\Users\я\Desktop\С#2\dz56\bin\Debug\net6.0\dz56.deps.json
+C:\Users\я\Desktop\С#2\dz56\bin\Debug\net6.0\dz56.runtimeconfig.json
+C:\Users\я\Desktop\С#2\dz56\bin\Debug\net6.0\dz56.dll
+C:\Users\я\Desktop\С#2\dz56\bin\Debug\net6.0\dz56.pdb
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.AssemblyInfo.cs
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.dll
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\refint\dz56.dll
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.pdb
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\dz56.genruntimeconfig.cache
+C:\Users\я\Desktop\С#2\dz56\obj\Debug\net6.0\ref\dz56.dll
